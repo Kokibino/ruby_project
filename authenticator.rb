@@ -1,7 +1,7 @@
 users = [
   # This will be the data for username & passwords
   { username: "koki", password: "password1" },
-  { username: "kento", password: "password2" },
+  { username: "kento", password: "password2" }
   { username: "ishida", password: "password3" },
   { username: "tetsu", password: "password4" },
 ]
